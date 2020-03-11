@@ -1,2 +1,4 @@
+STUNT INDEX NUMBER: 10688870
+CSCD 304: DESIGN AND ANALYSIS OF ALGORITHMS ASSIGNMENT.
 # Bubble-Sort-Implementation-10688870
 A Simple C++ Code To Implement The Bubble Sort Algorithm
